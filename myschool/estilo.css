@@ -1,0 +1,29 @@
+.img-logo2{
+	width: 200px;
+	height: 30px;
+	margin-bottom: 10px;
+}
+
+.img-logo3{
+	width: 50px;
+	height: 30px;
+}
+
+.style-menu{
+	background: white;
+	border: 1px solid black;
+	margin: 5px;
+}
+
+.formulario{
+	width: 250px;
+}
+.black{
+	color: black;
+}
+
+.padrao_form{
+	height: 50px ;
+	width: 300px ;
+}
+
